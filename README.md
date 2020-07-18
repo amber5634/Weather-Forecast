@@ -36,3 +36,8 @@ live-server
 [For getting the weather api key](https://pixabay.com/)
 
 > Screenshot of weather forecast in Lucknow, Indira Nagar
+
+![dd](https://user-images.githubusercontent.com/30586187/87850546-b4e73d80-c90e-11ea-846a-c69225c42cda.PNG)
+
+
+> Happy Weather Forecast
